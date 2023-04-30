@@ -1,5 +1,6 @@
 # Data-analysis-of-retail-giant-SQL
 
+Download the data files from link given in "Data files link".
 Import the data to your preferrable SQL database. I imported to SQL server.
 Make sure of choosing right data types and check for null values.
 
